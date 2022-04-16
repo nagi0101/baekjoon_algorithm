@@ -7,7 +7,7 @@ long long int key(int A[], int N, int i, int j)
 {
     if(i==j)
     {
-        return A[i] * A[i];
+        return (long long int) A[i] * (long long int) A[i];
     }
     
     int mid = (i + j) / 2;
