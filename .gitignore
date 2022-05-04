@@ -41,3 +41,4 @@
 # Custom gitignore
 .replit
 .gitcommit.txt
+goorm.manifest
